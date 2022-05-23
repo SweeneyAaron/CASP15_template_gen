@@ -15,4 +15,8 @@ Hydrogens can be removed by setting the -h flag to True.
     
 This template can then be used to build CASP LG format files.
 
+## Requirements
+
+- Python 3
+- [RDKit](https://www.rdkit.org/docs/Install.html)
 
