@@ -7,9 +7,9 @@ Basic usage:
 
     python template_gen.py -s "<SMILES string>"
   
-will genrate a file named TEMPLATE_<SMILES string>.sdf
+will genrate a file named `TEMPLATE_<SMILES string>.sdf`
    
-Hydrogens can be removed by setting the -h flag to True.
+Hydrogens can be removed by setting the `-h` flag to `True`.
 
     python template_gen.py -s "<SMILES string>" -h True
     
