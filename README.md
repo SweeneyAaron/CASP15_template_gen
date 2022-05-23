@@ -43,7 +43,7 @@ Basic usage:
   4 14  1  0
 M  END
 $$$$
-
+ 
 
 N.b Hydrogens can be removue by setting the -h flag to False.
 This template can then be used to build CASP LG format files.
